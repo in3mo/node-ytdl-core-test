@@ -1,6 +1,6 @@
 {
-  "name": "ytdl-core",
-  "description": "YouTube video downloader in pure javascript.",
+  "name": "ytdl-core-test",
+  "description": "Fork of YouTube video downloader in pure javascript.",
   "keywords": [
     "youtube",
     "video",
